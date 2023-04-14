@@ -1,3 +1,4 @@
+// Déclaration d'un tableau d'objets représentant les diapositives et le texte du slider
 const slides = [
     {
         "image":"slide1.jpg",
